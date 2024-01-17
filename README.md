@@ -1,8 +1,21 @@
-# React + Vite
+# React Background Changer with Witte and Tailwind CSS
+![Screenshot (94)](https://github.com/MadhurChaturvedi/bgChanger/assets/93113162/9b176d26-c0ae-483e-b434-eafd4d5053bb)
+![Screenshot (95)](https://github.com/MadhurChaturvedi/bgChanger/assets/93113162/3d38aeb5-483a-40e8-9c0d-cc90270e722c)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that allows you to change the background color using Witte for state management and Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Include a link or GIF to a demo of your project.
+
+## Features
+
+- Change the background color dynamically.
+- Built with React, Witte, and Tailwind CSS.
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-project.git
