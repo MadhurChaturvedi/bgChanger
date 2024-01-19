@@ -19,3 +19,10 @@ Include a link or GIF to a demo of your project.
 
 ```bash
 git clone https://github.com/your-username/your-project.git
+```
+```bash
+npm i 
+```
+```bash
+cd bgChanger
+```
