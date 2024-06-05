@@ -20,6 +20,9 @@ function App() {
           <button className=" outline-none px-4 py-1 rounded-full text-white shadow-lg hover:opacity-15 transition-all" onClick={() => setColor('#FAEF5D')} style={{ backgroundColor: '#FAEF5D' }}>
             Yellow
           </button>
+          <button className=" outline-none px-4 py-1 rounded-full text-white shadow-lg hover:opacity-15 transition-all" onClick={() => setColor('#000')} style={{ backgroundColor: '#000' }}>
+            Back
+          </button>
           
 
         </div>
