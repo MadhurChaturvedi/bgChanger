@@ -21,8 +21,8 @@ Include a link or GIF to a demo of your project.
 git clone https://github.com/your-username/your-project.git
 ```
 ```bash
-npm i 
+cd bgChanger
 ```
 ```bash
-cd bgChanger
+open vs-code and run live server
 ```
